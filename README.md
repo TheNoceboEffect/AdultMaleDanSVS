@@ -44,3 +44,5 @@ text to speech block does not
 need to be checked.
 
 You're done! Enjoy!
+
+Voice provided by typecast.ai
